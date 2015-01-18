@@ -1,2 +1,2 @@
 # practice
-my practices 
+The project is created to keep my practices 
